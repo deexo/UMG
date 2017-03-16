@@ -15,13 +15,13 @@ Please check that the song you will be playing is not on this list, otherwise it
 
 
 ## [A]
-Aero Chord - Surface 
+* Aero Chord - Surface 
 
 ## [B] 
-Bobby Shmurda - Hot Nigga (All Remixes/Edits) 
+* Bobby Shmurda - Hot Nigga (All Remixes/Edits) 
 
 ## [C]
-Chief Keef - Love Sosa (All Remixes/Edits)
+* Chief Keef - Love Sosa (All Remixes/Edits)
 
 ## [D]
 * Desiigner - Panda (All Remixes/Edits)
@@ -33,17 +33,17 @@ Chief Keef - Love Sosa (All Remixes/Edits)
 * Dr. Dre - The Next Episode (San Holo Remix)
 
 ## [E]
-Eiffel 65 - Blue (KNY Factory Remix)
+* Eiffel 65 - Blue (KNY Factory Remix)
 
 ## [F]
 * Fetty Wap - Trap Queen  (ALL REMIXES/EDITS/BOOTLEGS)
 * Flosstradamus - Mosh Pit
 
 ## [G]
-Hucci x Stooki Sound - Ball So Hard
+* Hucci x Stooki Sound - Ball So Hard
 
 ## [J]
-Jason Derulo feat. Snoop Dogg - Wiggle (ALL REMIXES/EDITS/BOOTLEGS)
+* Jason Derulo feat. Snoop Dogg - Wiggle (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [K]
 * Keys N Krates - Dum Dee Dum (ALL REMIXES/EDITS/BOOTLEGS)
@@ -52,26 +52,25 @@ Jason Derulo feat. Snoop Dogg - Wiggle (ALL REMIXES/EDITS/BOOTLEGS)
 * Katy Perry - Dark Horse (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [M]
-Martin Garrix - Animals (ALL REMIXES/EDITS/BOOTLEGS)
+* Martin Garrix - Animals (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [O]
-O.T. Genasis - CoCo
-
+* O.T. Genasis - CoCo
 ## [R]
-Rae Sremmurd - No Type (ALL REMIXES/EDITS/BOOTLEGS)
+* Rae Sremmurd - No Type (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [S]
 * Shawn Wasabi - HOTTU DOGGU
 * Skrillex & Rick Ross - Purple Lamborghini
 
 ## [T]
-Tomsize x Simeon - Jump (ALL REMIXES/EDITS/BOOTLEGS)
+* Tomsize x Simeon - Jump (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [W]
-Waka Flocka - No Handz (CRNKN Remix)
+* Waka Flocka - No Handz (CRNKN Remix)
 
 ## [V]
-Vinnie Maniscalco - TaKillya
+* Vinnie Maniscalco - TaKillya
 
 ## [Y]
 * Yellow Claw - Shotgun
