@@ -12,3 +12,13 @@ Please check that the song you will be playing is not on this list, otherwise it
 * Caked Up
 
 ![dont](http://www.reactiongifs.com/r/2013/07/dont-try-it.gif)
+
+
+## [A]
+Aero Chord - Surface 
+
+
+## [B] 
+Bobby Shmurda - Hot Nigga (All Remixes/Edits) 
+
+## [C]
