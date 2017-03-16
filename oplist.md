@@ -1,4 +1,9 @@
 Overplayed List
 ======
 
-## All Remixes/Edits/Bootlegs/Mashups
+## Blacklisted Artists - All Remixes/Edits/Bootlegs/Mashups 
+* 21 Pilots
+* Chainsmokers
+* Han Solo
+* Major Lazer
+* Marshmello
