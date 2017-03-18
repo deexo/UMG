@@ -37,40 +37,60 @@ Please check that the song you will be playing is not on this list, otherwise it
 
 ## [F]
 * Fetty Wap - Trap Queen  (ALL REMIXES/EDITS/BOOTLEGS)
+* Fetty Wap - My Way
 * Flosstradamus - Mosh Pit
+* Flo Rida - My House
+* Future - Jumpman 
 
 ## [G]
 * Hucci x Stooki Sound - Ball So Hard
+
+## [I]
+* Iggy Azalea - Black Widow (Delay Remix)
+* ILoveMakonnen - Tuesday 
 
 ## [J]
 * Jason Derulo feat. Snoop Dogg - Wiggle (ALL REMIXES/EDITS/BOOTLEGS)
 
 ## [K]
-* Keys N Krates - Dum Dee Dum (ALL REMIXES/EDITS/BOOTLEGS)
-* Keys N Krates - All The Time (ALL REMIXES/EDITS/BOOTLEGS)
 * Kanye West - Mercy (RL Grime & Salva Remix)
 * Katy Perry - Dark Horse (ALL REMIXES/EDITS/BOOTLEGS)
+* Keys N Krates - Dum Dee Dum (ALL REMIXES/EDITS/BOOTLEGS)
+* Keys N Krates - All The Time (ALL REMIXES/EDITS/BOOTLEGS)
+* Kevin Gates - 2 Phones
 
 ## [M]
 * Martin Garrix - Animals (ALL REMIXES/EDITS/BOOTLEGS)
+* Migos - Bad and Boujeee (All remixes/edits/bootlegs)
 
 ## [O]
 * O.T. Genasis - CoCo
+
 ## [R]
 * Rae Sremmurd - No Type (ALL REMIXES/EDITS/BOOTLEGS)
+* Rae Sremmurd - Black Beatles 
 
 ## [S]
 * Shawn Wasabi - HOTTU DOGGU
+* Silento - Watch Me 
 * Skrillex & Rick Ross - Purple Lamborghini
+* Suicideboys - Paris
+* Souljah Boy - Crank Dat
 
 ## [T]
 * Tomsize x Simeon - Jump (ALL REMIXES/EDITS/BOOTLEGS)
+* Tyga - Rack City
 
 ## [W]
 * Waka Flocka - No Handz (CRNKN Remix)
+* Wiz Khalifa - We Dem Boyz 
+* The Weeknd - Starboy
 
 ## [V]
 * Vinnie Maniscalco - TaKillya
+
+## [X]
+* XXXTentacion - Look at Me
 
 ## [Y]
 * Yellow Claw - Shotgun
