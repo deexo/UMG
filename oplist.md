@@ -80,6 +80,7 @@ Please check that the song you will be playing is not on this list, otherwise it
 ## [T]
 * Tomsize x Simeon - Jump (ALL REMIXES/EDITS/BOOTLEGS)
 * Tyga - Rack City
+* The Game & Skrillex - El Chapo
 
 ## [W]
 * Waka Flocka - No Handz (CRNKN Remix)
