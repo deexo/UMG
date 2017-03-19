@@ -79,6 +79,7 @@ Please check that the song you will be playing is not on this list, otherwise it
 * Skrillex & Rick Ross - Purple Lamborghini
 * Suicideboys - Paris
 * Souljah Boy - Crank Dat
+* Surce & Todiefor - Deez Nuts
 
 ## [T]
 * Tomsize x Simeon - Jump (ALL REMIXES/EDITS/BOOTLEGS)
