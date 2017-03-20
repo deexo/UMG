@@ -32,7 +32,7 @@ Please check that the song you will be playing is not on this list, otherwise it
 * DJ Snake & Lil Jon - Turn Down for What  (ALL REMIXES/EDITS/BOOTLEGS)
 * Diplo - Revolution (ALL REMIXES/EDITS/BOOTLEGS)
 * D.R.A.M. - Broccoli ( Feat. Lil Yachty )
-* Drake - Hotling Bling (all remixes/edits/bootlegs)
+* Drake - Hotline Bling (all remixes/edits/bootlegs)
 * Dr. Dre - The Next Episode (San Holo Remix)
 
 ## [E]
