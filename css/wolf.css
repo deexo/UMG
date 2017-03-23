@@ -1,0 +1,130 @@
+
+/*glitter for Dee :sparkles: */
+#chat .cm.id-4879705 .from .un.clickable {
+background-image: url(http://i.imgur.com/rnOlSZ9.gif);
+}
+/*badges and icons*/
+[data-cid^="4412452-"] i.bdg.bdg-animal-o05.o {
+    background: url("https://dl.dropboxusercontent.com/s/3e5mmxroabvao5t/Snake.gif") !important;
+}
+[data-cid^="4613422-"] i.bdg {
+    background: url(https://dl.dropboxusercontent.com/s/k2yra4gy3lv91bh/badge_wibla.png) !important;
+}
+[data-cid^="3482931-"] i.bdg {
+    background: url("https://dl.dropboxusercontent.com/s/yehsh1h8fyecmuj/bdg-animals-s05.png") !important;
+}
+[data-cid^="4879705-"] i.bdg {
+    background: url("https://dl.dropboxusercontent.com/s/isfgth1bdtr8x6y/Dee.png") !important;
+}
+[data-cid^="8648090-"] i.bdg {
+    background: url("https://dl.dropboxusercontent.com/s/k45ldhepmkqzb21/luu.png") !important;
+}
+[data-cid^="25590233-"] i.bdg {
+    background: url("https://dl.dropboxusercontent.com/s/rhkvf7innn8wfpy/BotBadge.png") !important;
+}
+#chat [data-cid^="25590233-"] .from .icon {
+    background: url(https://dl.dropboxusercontent.com/s/sh8ulnuyvctg2vw/plug_ranks.png) -135px !important;
+}
+
+/*user rollover arrow fix*/
+#user-rollover.expand.chat .arrow-down {
+    border-left: 8px solid rgba(0, 0, 0, 0.3) !important;
+}
+#user-rollover:not(.chat) .arrow-down {
+    border-top: 8px solid rgba(0, 0, 0, 0.5) !important;
+}
+/*vote button selected*/
+#woot.selected {
+    background: hsla(92, 64%, 33%, 0.5) !important;
+}
+#grab.selected {
+    background: rgba(16, 0, 41, 0.5) !important;
+}
+#meh.selected {
+    background: hsla(0, 64%, 33%, 0.5) !important;
+}
+/*chat hover*/
+#chat .cm:nth-child(2n+1):hover,
+#chat .cm:hover{
+    background: rgba(89, 89, 89, 0.3) !important;
+}
+/*dj-button hover */
+#chat .cm,
+#dj-button
+{
+        -webkit-transition:     all 0.3s ease;
+        -moz-transition:        all 0.3s ease;
+        -o-transition:          all 0.3s ease;
+        transition:             all 0.3s ease;
+}
+#dj-button:hover{
+    opacity:                1;
+    -webkit-box-shadow:     inset 230px 0 0 0 rgba(100,100,100,.5) !important;
+    -moz-box-shadow:        inset 230px 0 0 0 rgba(100,100,100,.5) !important;
+    -o-box-shadow:          inset 230px 0 0 0 rgba(100,100,100,.5) !important;
+    box-shadow:             inset 230px 0 0 0 rgba(100,100,100,.5) !important;
+}
+
+/*Theme Credit*/
+#twitter-menu li {
+    background: rgba(0, 0, 0, 0.5);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+#twitter-menu .arrow-down {
+    border-top: 8px solid rgba(0, 0, 0, 0);
+}
+#twitter-menu .menu {
+    left: -133px !important;
+}
+#twitter-menu .icon {
+    background: url(https://dl.dropboxusercontent.com/s/zs9cpd70cj1gg3i/i.png);
+}
+.social-menu .icon {
+    top: 12px;
+    left: 12px;
+}
+.social-menu .menu .icon-share {
+    background: url(https://dl.dropboxusercontent.com/s/zs9cpd70cj1gg3i/i.png)no-repeat!important;
+    width: 199px;
+    top: -30px;
+}
+.social-menu .menu .icon-share:after {
+    content: "Theme Info";
+    padding-left: 35px;
+    font-size: 22px;
+    font-style: normal;
+    color: #049eff;
+}
+.social-menu .menu .icon-invite{
+    background: url(https://dl.dropboxusercontent.com/s/5aq680eztz7b3re/%29.png)no-repeat !important;
+    width: 150px;
+    top: -28px;
+}
+.social-menu .menu .icon-invite:after {
+    content: "Authors: WiBla & Wolf";
+    padding-left: 35px;
+    font-size: 20px;
+}
+.social-menu .menu.invite-only li:nth-child(2) {
+    display: block;
+}
+.social-menu li .social-item,
+#twitter-follow,
+#facebook-menu {
+    display: none !important;
+}
+#twitter-menu.social-menu:hover>.menu {
+    top: -117px !important;
+    opacity: 100%;
+}
+#twitter-menu .menu {
+    top: 55px !important;
+    opacity: 0%;
+    display: block !important;
+    pointer-events: none;
+}
+
+
+#user-menu .avatar {
+    background: linear-gradient();
+}
