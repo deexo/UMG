@@ -25,6 +25,9 @@ background-image: url(http://i.imgur.com/rnOlSZ9.gif);
 #chat [data-cid^="25590233-"] .from .icon {
     background: url(https://dl.dropboxusercontent.com/s/sh8ulnuyvctg2vw/plug_ranks.png) -135px !important;
 }
+[data-cid^="3853090-"] i.bdg {
+    background: url("http://i.imgur.com/v3lSyId.png") !important;
+}
 
 /*user rollover arrow fix*/
 #user-rollover.expand.chat .arrow-down {
