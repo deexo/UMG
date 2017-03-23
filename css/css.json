@@ -2,7 +2,7 @@
   "room": "UMG - Trap & Rap",
   "author": "Wolf & WiBla",
   "icon": "http://i.imgur.com/JQF2vo3.png",
-  "css": "https://dl.dropbox.com/s/kaaqb3bfdcnl2v5/theme.css",
+  "css": "https://raw.githubusercontent.com/deexo/UMG/master/css/theme.css",
   "ccc": {
     "admin": "#42a5dc",
     "ambassador": "#9C0",
