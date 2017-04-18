@@ -63,6 +63,9 @@ Please check that the song you will be playing is not on this list, otherwise it
 * Keys N Krates - All The Time (ALL REMIXES/EDITS/BOOTLEGS)
 * Kevin Gates - 2 Phones
 
+## [L]
+* Lil Uzi Vert - XO Tour Llife3 
+
 ## [M]
 * Martin Garrix - Animals (ALL REMIXES/EDITS/BOOTLEGS)
 * Migos - Bad and Boujeee (All remixes/edits/bootlegs)
